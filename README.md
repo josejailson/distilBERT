@@ -1,4 +1,4 @@
-# distilBERT on AWS SageMaker
+# Sentiment analysis on AWS SageMaker
 ---
 In this project, I demonstrate how to create and deploy an NLP model using AWS SageMaker tools. 
 The model I have chosen is a pretrained Hugging Face distilBERT. 
